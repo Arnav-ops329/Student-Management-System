@@ -155,6 +155,3 @@ It represents my progress from learning basics to building a fully working appli
 If you want to suggest improvements, open a pull request or raise an issue.
 Collaboration is always welcome!
 
-🔗 Connect With Me
-
-Let’s connect and learn together!
